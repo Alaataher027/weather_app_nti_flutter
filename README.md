@@ -34,7 +34,6 @@ dependencies:
   flutter_screenutil: ^5.9.3
   flutter_svg: ^2.1.0
   geolocator: ^14.0.1
-  get_it: ^8.0.3
   intl: ^0.20.2
   lottie: ^3.3.1
 ```
